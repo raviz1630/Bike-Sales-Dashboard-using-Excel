@@ -12,3 +12,8 @@ Step 2:
 1. Created a pivot table and pivot chart with the x and y axes as the Average income of both males and females vs. whether they purchased the bike or not. To come to the intuition that the average is playing a role in the purchases of the bike.
 2. Also made another pivot table as Average Commute Distance vs Bike Purchase. To see if the commute distance is playing a role in the purchase of the bike or not.
 3. Came up with another pivot chart to get a visual representation if the age of the people is an influence in the purchase of the bike or not.
+
+Step 3:
+1. Constructed the dashboard using multiple pivot charts gathered from multiple pivot tables, also added multiple slicers to check how the result varies visually by the effect of various components
+2. This is the link to the Excel sheet shared online https://1drv.ms/x/s!AvXvn9QVmXJSan2Ma26h_Pj5SKs?e=uhqrkf
+3. The final project file name is "Bike Sales Dashboard Final".
